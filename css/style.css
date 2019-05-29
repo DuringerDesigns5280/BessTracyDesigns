@@ -1637,7 +1637,7 @@ border:solid 1px #ddd;
 	
 	.spacer-double{
 	width:100%;
-	height:60px;
+	height:30px;
 	display:block;
 	clear:both;
 	}
@@ -1910,9 +1910,22 @@ border:solid 1px #ddd;
 	}
 	
 	.text-light{
-	color:#ddd;
+	color:white;
 	}
-	
+	.mainlogo{
+		width: 300px;
+		height: 300px;
+	}
+	#logo{
+		padding-top: 10vh;
+	}
+
+
+	.de_light h1{
+		font-size: 20px;
+		background-color: rgba(0, 0, 0, 0.5);
+			
+	}
 	.text-dark{
 	color:#333;
 	}
@@ -2826,7 +2839,7 @@ border:solid 1px #ddd;
 	border: 1px solid #ddd;
 	padding: 15px 20px 20px 20px;
 	margin-top: -1px;
-	background: #fff;
+	background: black;
 	}
 	
 	.de_tab .de_tab_content {
@@ -2860,12 +2873,12 @@ border:solid 1px #ddd;
 	.de_tab .de_nav li.active span {
 	background: #27282b;
 	border-bottom: 1px solid #27282b;
-	color: #ccc;
+	color: black;
 	}
 	
 	.de_tab.tab_steps .de_nav li.active span {
 	background:none;
-	color: #ffffff;
+	color: black;
 	border:solid 2px rgba(255,255,255,.8);
 	}
 	
