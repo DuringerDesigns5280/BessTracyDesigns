@@ -1856,6 +1856,7 @@ border:solid 1px #ddd;
 	}
 	.de_light .text-light h2{
 	color:#fff;
+	font-size: 50px;
 	}
 	h3.title {
 	border-bottom: solid 1px #ddd;
@@ -5204,6 +5205,7 @@ display:table;
 	header.side-header #logo .logo{
 	display:none;
 	}
+
 	
 	header.side-header #logo .logo-2{
 	display:inline-block;
