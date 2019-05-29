@@ -1912,9 +1912,10 @@ border:solid 1px #ddd;
 	.text-light{
 	color:white;
 	}
+
 	.mainlogo{
-		width: 300px;
 		height: 300px;
+		width:
 	}
 	#logo{
 		padding-top: 10vh;
@@ -4485,6 +4486,10 @@ p{
 	margin-bottom:20px;
 }
 
+#contactdiv{
+	display: flex;
+	flex-direction: row;
+}
 
 .bg-grey{
 	background:#f5f5f5;
