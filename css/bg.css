@@ -50,7 +50,7 @@ background:url(../images/background/bg-subheader.jpg)top fixed;
 .de_light #section-about-us-2{background:none;}
 #section-welcome{background:url(../images/background/bg-4.jpg) top fixed;}
 #section-welcome-2{background:url(../images/background/bg-6.jpg) top fixed;}
-#section-welcome-3{background:url(../images/chaseweb/Chase-17.jpg) top fixed;}
+#section-welcome-3{background:url(../images/chaseweb/Chase-17.jpg) top fixed; }
 #section-welcome-4{background:url(../images/background/bg-10.jpg) top fixed;}
 #section-welcome-6{background:url(../images/background/bg-15.jpg) top fixed;}
 #section-welcome-7{background:url(../images/background/bg-20.jpg) fixed center;}
@@ -66,10 +66,10 @@ background:url(../images/background/bg-subheader.jpg)top fixed;
 #section-portfolio{background:#222; width:101%; overflow:hidden;}
 .de_light #section-portfolio{background:#fff;}
 #section-skill-bar{ background:url(../images/background/bg-8.jpg)  top fixed;}
-#section-testimonial{ background:url(../images/background/bg-3.jpg) top fixed;}
+#section-testimonial{ background:url(../images/chaseweb/Chase-29copyDARK.jpg) top fixed;}
 #section-testimonial-2{ background:url(../images/background/bg-17.jpg) top fixed;}
 #section-steps{
-	background:url(../images/cuteprop/DESIGN4534E18thAve-4.jpg) top fixed; }
+	background:url(../images/cuteprop/DESIGN4534E18thAve-4DARK.jpg) fixed center; }
 #section-steps-2{ background:#f5f5f5;}
 #section-steps-3{ background:url(../images/background/bg-12.jpg) top fixed;}
 #section-steps-4{ background:url(../images/background/bg-29.jpg) top fixed;}

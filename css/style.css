@@ -1916,16 +1916,17 @@ border:solid 1px #ddd;
 
 	.mainlogo{
 		height: 300px;
-		width:
+		
 	}
+
 	#logo{
 		padding-top: 10vh;
 	}
 
 
 	.de_light h1{
-		font-size: 20px;
-		background-color: rgba(0, 0, 0, 0.5);
+		font-size: 16px;
+
 			
 	}
 	.text-dark{
